@@ -33,19 +33,24 @@ Document each command you used and take screenshots showing the results.
 ## Commands Reference
 ```bash
 pwd          # Print working directory
-ls -la       # List all files with details
+ls           # List all files with details
+ls -l        # List files with details (long format)
+ls-a         # List all files (even hidden)
+ls- la       # List all files with details
 mkdir        # Make directory
 cd           # Change directory
 touch        # Create empty file
-echo         # Print text (can redirect to file)
+echo         # Print text (can redirect to file using >)
 cat          # Display file contents
 cp           # Copy files
 mv           # Move/rename files
 grep         # Search text patterns
 man          # Display manual pages
+nano/vim     #Open text editor
 ```
 
 ## Questions
-1. What is the difference between absolute and relative paths?
+1. How can you view the contents of a text file without opening it in an editor?
 2. What does the `-la` flag do in the `ls` command?
 3. How can you view hidden files in Linux?
+4. You’re not sure what a command does. What’s the safest way to learn about it without running it blindly?
