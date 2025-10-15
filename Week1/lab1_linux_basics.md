@@ -33,9 +33,9 @@ Document each command you used and take screenshots showing the results.
 ## Commands Reference
 ```bash
 pwd          # Print working directory
-ls           # List all files with details
+ls           # List files
 ls -l        # List files with details (long format)
-ls-a         # List all files (even hidden)
+ls -a        # List all files (even hidden)
 ls- la       # List all files with details
 mkdir        # Make directory
 cd           # Change directory
