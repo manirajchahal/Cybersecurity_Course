@@ -46,7 +46,7 @@ cp           # Copy files
 mv           # Move/rename files
 grep         # Search text patterns
 man          # Display manual pages
-nano/vim     #Open text editor
+nano/vim     # Open text editor
 ```
 
 ## Questions
