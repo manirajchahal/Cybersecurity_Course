@@ -31,12 +31,7 @@ cd Cybersecurity_Course
 ls
 ```
 
-### Step 2: Join the Community
-- Join our Discord/Slack: [Add your own community]
-- Introduce yourself in the #introductions channel
-- Check the #announcements for weekly updates
-
-### Step 3: Start Learning
+### Step 2: Start Learning
 ```bash
 # Navigate to Week 1
 cd Week1
