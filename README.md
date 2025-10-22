@@ -124,12 +124,6 @@ Many labs will require specific tools. We'll guide you through installation in e
 - Respect privacy and data protection laws
 - Follow academic integrity policies
 
-
-## 📞 Getting Help
-
-### Club Resources
-- **Discord/Slack**: [Link to channel]
-- **Email**: [Contact email]
-
+  
 
 *Last updated: October 2025*
