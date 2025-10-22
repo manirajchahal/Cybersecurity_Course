@@ -96,7 +96,7 @@ By completing these labs and projects, you will:
 - Access to a computer (Windows, Mac, or Linux)
 
 ### Recommended Setup
-[View Setup Instructions](GETTING_STARTED.MD)
+[View Setup Instructions](GETTING_STARTED.md)
 
 ### Installing Required Tools
 Many labs will require specific tools. We'll guide you through installation in each week's materials, but common tools include:
