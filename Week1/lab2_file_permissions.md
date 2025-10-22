@@ -51,3 +51,20 @@ Create test_script.sh with this content:
 #!/bin/bash
 echo "Hello from the cybersecurity club!"
 echo "Current date: $(date)"
+```
+## Deliverables
+
+1. Screenshots showing permission changes
+2. Written explanation of the permission system
+3. Answers to the questions below
+
+## Questions
+
+1. What does the permission string `-rwxr-xr--` mean in numeric form?
+2. Why might you want to set a file to permission 600?
+3. What is the difference between chmod 755 and chmod 777? Which is more secure?
+4. What command would you use to make a file readable by everyone but writable only by the owner?
+
+## Additional Challenge
+
+Research and explain the setuid, setgid, and sticky bit special permissions.
